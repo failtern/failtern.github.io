@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Failtern]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com"/>
+  <updated>2014-09-18T06:05:08.826Z</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Failtern]]></name>
+  </author>
+  <generator uri="http://zespia.tw/hexo">Hexo</generator>
+  <entry>
+    <title type="html"><![CDATA[Test Post]]></title>
+    <link href="http://yoursite.com/blog/2014/09/17/Test-Post/"/>
+    <id>http://yoursite.com/blog/2014/09/17/Test-Post/</id>
+    <published>2014-09-18T04:53:29.000Z</published>
+    <updated>2014-09-18T04:55:40.000Z</updated>
+    <content type="html"><![CDATA[<p>This is a test of a static generator.</p>
+]]></content>
+    <category scheme="http://yoursite.com/tags/uncategorized/" term="uncategorized"/>
+  </entry>
+</feed>
