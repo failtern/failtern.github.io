@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Failtern]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com"/>
-  <updated>2014-09-20T17:49:29.071Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://failtern.com/atom.xml" rel="self"/>
+  <link href="http://failtern.com"/>
+  <updated>2014-10-14T19:40:33.982Z</updated>
+  <id>http://failtern.com/</id>
   <author>
     <name><![CDATA[Failtern]]></name>
+    <email><![CDATA[failtern@gmail.com]]></email>
   </author>
   <generator uri="http://zespia.tw/hexo">Hexo</generator>
   <entry>
-    <title type="html"><![CDATA[Test Post]]></title>
-    <link href="http://yoursite.com/blog/2014/09/17/Test-Post/"/>
-    <id>http://yoursite.com/blog/2014/09/17/Test-Post/</id>
-    <published>2014-09-18T04:53:29.000Z</published>
-    <updated>2014-09-18T04:55:40.000Z</updated>
-    <content type="html"><![CDATA[<p>This is a test of a static generator.</p>
+    <title type="html"><![CDATA[Singy for Android on the way]]></title>
+    <link href="http://failtern.com/blog/2014/10/11/Singy-for-Android-on-the-way/"/>
+    <id>http://failtern.com/blog/2014/10/11/Singy-for-Android-on-the-way/</id>
+    <published>2014-10-11T20:55:09.000Z</published>
+    <updated>2014-10-14T19:34:39.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/Singy.png">
+
+<p>I have been working on Singy an Android app that helps me improve my singing.</p>
+<p>Singy helps you practice sustaining correct pitches.</p>
+<p>I have been hesitating to release it due to a pure sine wave pitch that does not sound interesting.</p>
+<p>It is fully-functional.</p>
+<p>Press the Facebook status update “Like” link if you want to see it released right now with the simple sound.</p>
 ]]></content>
-    <category scheme="http://yoursite.com/tags/uncategorized/" term="uncategorized"/>
+    <category scheme="http://failtern.com/tags/Singy/" term="Singy"/>
+    <category scheme="http://failtern.com/tags/release/" term="release"/>
   </entry>
 </feed>
