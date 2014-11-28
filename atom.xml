@@ -3,7 +3,7 @@
   <title><![CDATA[Failtern]]></title>
   <link href="http://failtern.com/atom.xml" rel="self"/>
   <link href="http://failtern.com"/>
-  <updated>2014-10-14T19:40:33.982Z</updated>
+  <updated>2014-11-28T10:13:01.565Z</updated>
   <id>http://failtern.com/</id>
   <author>
     <name><![CDATA[Failtern]]></name>
@@ -11,20 +11,61 @@
   </author>
   <generator uri="http://zespia.tw/hexo">Hexo</generator>
   <entry>
+    <title type="html"><![CDATA[You will be dead. Live your life.]]></title>
+    <link href="http://failtern.com/blog/2014/10/27/You-will-be-dead-Live-your-life/"/>
+    <id>http://failtern.com/blog/2014/10/27/You-will-be-dead-Live-your-life/</id>
+    <published>2014-10-27T19:42:27.000Z</published>
+    <updated>2014-11-28T10:10:35.000Z</updated>
+    <content type="html"><![CDATA[<p>On the evening of October 26, 2014, I learned the death of my high school friend Chi Lam. This news riled up my emotions. I saw him 1 week ago while I was eating at Togos near San Jose State. I feel disheartened that I didn’t try to reconnect with him ever since high school. Within this year alone I have lost my grandpa and my uncle. I have said to my relatives that these deaths didn’t affect me. That was a lie. Chi’s death made me realize how affected I am. It was very apparent when I unusually woke up at 4am this morning thinking about Chi and all my dead relatives.</p>
+<p>Let me tell you how Chi became a part of my life.</p>
+<p>I met Chi during my freshman year at Abraham Lincoln High School while hanging out at my biology teacher’s classroom. I instantly connected with him. He studied hard, enjoyed basketball, and had an upbeat attitude.</p>
+<p>When I would see him around campus, he would always greet me with this big smile and say “What’s up Binh?”</p>
+<p>I would always reply with the usual “Hey what’s up Chi.”</p>
+<p>It was always some quick reply because I always felt busy with school work; the stereotypical studious asian.</p>
+<p>We got to know each other better during the Spring semester when we joined the high school badminton team. I joined the badminton team not knowing what the sport was. I thought it was some card game and I couldn’t understand how someone could make a card game a sport. I just had to see what this thing was all about.</p>
+<p>This is where I learned about our really competitive nature. Chi and I would rally during badminton practice and try to out-smash each other. There was a great exchange of energy during our Badminton rallies. Each time one of us was able to win a point, there was always some form of affirmation like “Yeah!”, “Woo!” However, there was always compassion when one of us got struck with the birdie or did some dive. We would always ask each other “Are you okay?” Even in the heat of competition, we understood caring for others was first.</p>
+<p>Chi’s death reminded me of Napoleon Hill’s statement. “Life is a checkerboard, and the player opposite you is TIME. If you hesitate before moving, or neglect to move promptly, your men will be wiped off the board by TIME. You are not playing against a partner who will not tolerate INDECISION!” We have all had something we wanted to do and made excuses to not do it. Knowing that you could die the next minute, what would you do?</p>
+<p>I would tell you the idea of DreamScape, an idea to enable dreamers that was created during my time at UC Santa Cruz.</p>
+<p>I dreamed of a social network that would initiate people to define their dreams in very definite terms. After posting the dreams, people could either let anonymous people or allow close friends to help them think of plans that would help them achieve their dreams. People with similar dreams could be matched together to help each other. By having a database of dreams, a person’s dream had the chance of being realized even after death.</p>
+<p>Sadly, I do not know what Chi’s dreams were, but I do know that if I were to die, I want the DreamScape social network to be a reality. I am only 1 person.  I don’t know how to make a social network and I know little about web application development and Android development. I’m trying to learn Meteor <a href="https://www.meteor.com/" target="_blank" rel="external">https://www.meteor.com/</a> to build DreamScape. Anybody who feels they can contribute can contact me through email failtern@gmail.com I will post the details of this idea on it’s own link at <a href="http://failtern.com" target="_blank" rel="external">http://failtern.com</a></p>
+<p>Also, I have finally released Singy a voice tuner app that helps you perfect your singing pitch! My previous post was unintended. Singy was an idea stemming from me wanting to help aspiring singers perfect their pitch, so they wouldn’t embarass themselves on TV shows like American Idol and America’s Got Talent from a fundamental issue as being off-pitch.</p>
+<p>You can download Singy: <a href="https://play.google.com/store/apps/details?id=com.wintern" target="_blank" rel="external">https://play.google.com/store/apps/details?id=com.wintern</a></p>
+<h3 id="You_will_be_dead-_Live_your_life-">You will be dead. Live your life.</h3>
+]]></content>
+    <category scheme="http://failtern.com/tags/Chi/" term="Chi"/>
+    <category scheme="http://failtern.com/tags/Life/" term="Life"/>
+    <category scheme="http://failtern.com/tags/DreamScape/" term="DreamScape"/>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Singy for Android is finally released!]]></title>
+    <link href="http://failtern.com/blog/2014/10/18/Singy-for-Android-is-finally-released/"/>
+    <id>http://failtern.com/blog/2014/10/18/Singy-for-Android-is-finally-released/</id>
+    <published>2014-10-18T09:43:06.000Z</published>
+    <updated>2014-11-28T10:10:20.000Z</updated>
+    <content type="html"><![CDATA[<p>Like many people, I like to sing. I sing karaoke with my friends. I sing in the shower.</p>
+<h3 id="However,_I_still_sing_off-pitch-">However, I still sing off-pitch.</h3>
+<p>To solve that, I made Singy.</p>
+<p>Singy gives you the ability to practice sustaining pitches.</p>
+<p>It grades you on how precise you hold the pitch and how long you sustain it.</p>
+<p><strong>If you sing off-pitch like me, use Singy!</strong></p>
+]]></content>
+    <category scheme="http://failtern.com/tags/releases/" term="releases"/>
+    <category scheme="http://failtern.com/tags/Singy/" term="Singy"/>
+  </entry>
+  <entry>
     <title type="html"><![CDATA[Singy for Android on the way]]></title>
     <link href="http://failtern.com/blog/2014/10/11/Singy-for-Android-on-the-way/"/>
     <id>http://failtern.com/blog/2014/10/11/Singy-for-Android-on-the-way/</id>
     <published>2014-10-11T20:55:09.000Z</published>
-    <updated>2014-10-14T19:34:39.000Z</updated>
+    <updated>2014-11-28T10:10:06.000Z</updated>
     <content type="html"><![CDATA[<img src="/images/Singy.png">
 
 <p>I have been working on Singy an Android app that helps me improve my singing.</p>
 <p>Singy helps you practice sustaining correct pitches.</p>
 <p>I have been hesitating to release it due to a pure sine wave pitch that does not sound interesting.</p>
 <p>It is fully-functional.</p>
-<p>Press the Facebook status update “Like” link if you want to see it released right now with the simple sound.</p>
 ]]></content>
     <category scheme="http://failtern.com/tags/Singy/" term="Singy"/>
-    <category scheme="http://failtern.com/tags/release/" term="release"/>
+    <category scheme="http://failtern.com/tags/releases/" term="releases"/>
   </entry>
 </feed>
